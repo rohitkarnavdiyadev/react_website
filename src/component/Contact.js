@@ -57,10 +57,6 @@ const Contact = () =>{
                 }
             });
         }
-
-        //inputObj.fullname = '';
-        //inputObj.email = '';
-        //inputObj.mobile = '';
     }
 
     return (
